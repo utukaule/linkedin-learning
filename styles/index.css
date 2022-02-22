@@ -1,16 +1,39 @@
-#{
+*{
     margin: 0px;
 }
 .navbar-brand{
     font-size: 30px;
     margin-right: 15px ;
 }
-#learn{
+#learning{
     letter-spacing: 3px;
     color: black;
     font-weight: 500;
     padding-left: 0px;
 }
+#learing{
+    background-color: #EBEFF1;
+    border-right: 1px solid lightgrey;
+}
+#navbarScrollingDropdown {
+    color: #5E6060;
+    font-weight: 500;
+}
 #search_btn{
-    color: gray;
+    color: #5E6060;
+    background-color: #EBEFF1;
+    margin-left: -10px;
+    border-left: 1px solid lightgrey;
+}
+
+#input_course{
+    border: none;
+    background-color: #EBEFF1;
+    /* width: 100%; */
+}
+#sign_in{
+    border: none;
+    border: 1px solid #0A66CE;
+    color: #0A66CE;
+    border-radius: 30px;
 }
