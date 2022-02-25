@@ -12,7 +12,7 @@ function fn5 (event){
     // s5.push(obj5);
     // localStorage.setItem("DB5", JSON.stringify(s5));
     alert("your signup sucessful")
-    window.location.href = "home.html";
+    window.location.href = "signIn.html";
     }
     else {
         alert("Invalid code");
