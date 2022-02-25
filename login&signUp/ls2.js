@@ -1,6 +1,6 @@
 document.querySelector("form").addEventListener("submit", fn2);
 var s2 = JSON.parse(localStorage.getItem("DB2")) || [];
-
+var profile = [];
 function fn2 (event){
     event.preventDefault();
     var fname = document.querySelector("#Fname").value;
@@ -11,7 +11,8 @@ function fn2 (event){
         LastName : lname,
     };
     s2.push(obj2);
+    profile.push(obj2);
     localStorage.setItem("DB2", JSON.stringify(s2));
-    alert("sign-Up sucessful")
+    localStorage.setItem("usrProfileDB", JSON.stringify(profile));
     window.location.href = "ls3.html";
 }

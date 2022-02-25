@@ -1,4 +1,5 @@
 document.querySelector("form").addEventListener("submit", fn4);
+console.log("entered ls4")
 var s4 = JSON.parse(localStorage.getItem("DB4")) || [];
 function fn4 (event){
     event.preventDefault();
