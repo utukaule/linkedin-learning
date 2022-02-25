@@ -1,6 +1,6 @@
 let arr = [
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4D0DAQEpEdHoiYkBiQ/learning-public-crop_144_256/0/1592866184809?e=1645617600&v=beta&t=72f9cmkyF2JgXVsFRIp06EPJOd-AXVapQvglew_jTHc", //img path
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrkOnC5qc42oJeN0eXnRpcc0sDLzKSHEV82w&usqp=CAU", //img path
     title: "Learning Python (2020)", // title
     level: "Advanced",
     creater: "Joe Marini", //owner
@@ -12,7 +12,7 @@ let arr = [
       "https://dms.licdn.com/playlist/C4E0DAQHwIrkpQ442GQ/learning-original-video-vbr-540/0/1607643942134?e=1645617600&v=beta&t=Txq6MUY20EHkQ9zBucjgGkGnfWMVrqcnJ9cFmc05ilY#.mp4", // video link here,
   },
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4D0DAQFU4LTXLPJaIA/learning-public-crop_675_1200/0/1592866069779?e=1645617600&v=beta&t=QUEJjsN9tOWr_LswKlr2r-rHD4UpRhNpvV4axJVOZbE", //img path
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xw4KXThJ83KLbfJq6tRUGEN1qO8pYudlPA&usqp=CAU", //img path
     title: "Python Essential Training", // title
     level: "Beginner",
     creater: "Bill Weinman", //owner
@@ -24,7 +24,7 @@ let arr = [
       "https://dms.licdn.com/playlist/C4E0DAQHX0ogkiIe9Ew/learning-original-video-vbr-540/0/1598819420719?e=1645617600&v=beta&t=nJaL5E__QtuTnMUb_q3PRnIFCUsvuEHvvViKBkvR9-8#.mp4", // video link here,
   },
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4D0DAQFfhs2EuPDcuA/learning-public-crop_675_1200/0/1592866667823?e=1645617600&v=beta&t=Pr4Ht0JgENqgie-MHT0Aw7JVy3rjKag2jPObPfm9vH8", //img path
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkhiQq10wM-pyJi-yT5lTidfkFX9-8XoPAow&usqp=CAU", //img path
     title: "SQL Essential Training", // title
     level: "Beginner",
     creater: "Bill Weinman", //owner
@@ -36,7 +36,7 @@ let arr = [
       "https://dms.licdn.com/playlist/C560DAQEpis__jso9LA/learning-original-video-vbr-540/0/1599168749861?e=1645617600&v=beta&t=D596hs-79NA3MsUdA0MxZJEpLvCVkpkOCOggcb3RIAA#.mp4", // video link here,
   },
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4E0DAQE36TRRFU6eEw/learning-public-crop_675_1200/0/1568665816099?e=1645617600&v=beta&t=GeWRJXN4EUuwOEGY6ddGhpWY_fMNG_0xdf-kRt68Jtw", //img path
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ0MBSWDXBIYzpWDRQpbvz7zS5AMJk5i3rBw&usqp=CAU", //img path
     title: "Programming Foundations: Fundamentals", // title
     level: "Beginner",
     creater: "Annyce Davis", //owner
@@ -48,7 +48,7 @@ let arr = [
       "https://dms.licdn.com/playlist/C4E0DAQHDUpArl1xv9Q/learning-original-video-vbr-540/0/1598695175646?e=1645617600&v=beta&t=EAOirsUmsAno1PUArrcQQGHTVEO3Ar75jHK4fnih3Q0#.mp4", // video link here,
   },
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4E0DAQGZq3yHFuR9mg/learning-public-crop_675_1200/0/1568060053948?e=1645617600&v=beta&t=rgKiTcbevr5oLpjwXWuQcBxAmxVCjD1PfDpjs8jmJLM", //img path
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ15znqbtoY4ttf048UbLLKgkjI_m_WtuQU9w&usqp=CAU", //img path
     title: "Learning MATLAB", // title
     level: "Beginner + Intermediate",
     creater: "Steven Moser", //owner
@@ -60,8 +60,7 @@ let arr = [
       "https://dms.licdn.com/playlist/C4E0DAQE2AgT1opUoWg/learning-original-video-vbr-540/0/1598521021422?e=1645617600&v=beta&t=vJ65Dce6tloI8p5cdNOOuaLCG4dMvu9T6rqZDS3MTvA#.mp4", // video link here,
   },
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4E0DAQHqNko91KVUGQ/learning-public-crop_675_1200/0/1575308053139?e=1645617600&v=beta&t=daT7UmpFZdxMquTW3xXcGiSzfrb-1Iy1rBgyvcy_47A", //img path
-    title: "SQL: Data Reporting and Analysis", // title
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW3la5nzXuJY2gHwIrw4S-uB17wSdypgTDjQ&usqp=CAU",
     level: "Intermediate",
     creater: "Emma Saunders", //owner
     date: "Nov 2020", // data
@@ -72,7 +71,7 @@ let arr = [
       "https://dms.licdn.com/playlist/C560DAQHYAZEimBmkGg/learning-original-video-vbr-540/0/1599110497603?e=1645617600&v=beta&t=a-GkCN9Vw9iTbySViVRRFdiMMkM2bpGHzQQHL6z7hDk#.mp4", // video link here,
   },
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4E0DAQF_kbCzFxeYsw/learning-public-crop_675_1200/0/1572372542713?e=1645617600&v=beta&t=GA2ZTBElPsH7PgkYsCrNj6Pdm6J4jtsZqMK7h3HZzao", //img path
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLJWBWW5pAiSB7K7mydO74KTWjolf7irEfLg&usqp=CAU", //img path
     title: "Using Python with Excel", // title
     level: " Intermediate",
     creater: "Anthony Sagely", //owner
@@ -84,7 +83,7 @@ let arr = [
       "https://dms.licdn.com/playlist/C4E0DAQE90EPDLNNvsQ/learning-original-video-vbr-540/0/1598959175090?e=1645617600&v=beta&t=gEZ2okQFOHFMYHvcZzPOQzn12mxq9u_lWzHHy5P6ILM#.mp4", // video link here,
   },
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4E0DAQG3bGexV7b4AA/learning-public-crop_675_1200/0/1619134533264?e=1645621200&v=beta&t=Dq7bdxJODNu-rl90y8bO57xg7SXmKEg6aKI2_wCAqIs", //img path
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZaluwxzEfPvBkD9sWaLasp8XAQ_7NE-5gA&usqp=CAU", //img path
     title: "Python: Working with Predictive Analytics", // title
     level: " Advanced",
     creater: "Isil Berkun", //owner
@@ -96,7 +95,7 @@ let arr = [
       "https://dms.licdn.com/playlist/C560DAQFmzZKSrgC3CQ/learning-original-video-vbr-540/0/1599168432337?e=1645621200&v=beta&t=EwcnKigK23qrRfxfsV_DLqGZQ8vBv-xOsjuVBKBUTnw#.mp4", // video link here,
   },
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4E0DAQHgyyvv2PhNpw/learning-public-crop_675_1200/0/1571768552078?e=1645621200&v=beta&t=NhW13KRs0LwBJCbeYkqSkQD-zbT8jNPmgUt5Hd9z3-g", //img path
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQBiNByc4ben9-mbgpnZx64LapZLjR5MEqQ&usqp=CAU", //img path
     title: "Python for Data Science Essential Training Part 1", // title
     level: "Intermediate",
     creater: "Lillian Pierson, P.E.", //owner
@@ -109,7 +108,7 @@ let arr = [
   },
 
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4E0DAQE9UaR5VrPBng/learning-public-crop_675_1200/0/1568669504962?e=1645621200&v=beta&t=5mTPajCNylElSqK-fhg7dlwyI4evDgdZSk4Yc-Uf4wc", //img path
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnWBj31MupY0Cm0nVVCIAPJh2iR5Kw8PFhXw&usqp=CAU", //img path
     title: "Scripting for Testers", // title
     level: "Intermediate",
     creater: "Dave Westerveld", //owner
@@ -121,7 +120,7 @@ let arr = [
       " https://dms.licdn.com/playlist/C560DAQHEB9FhdQzhYQ/learning-original-video-vbr-540/0/1598869113012?e=1645621200&v=beta&t=ppnrLoR6IEeZkzp9BfRtYUrlEO6A-VGVb33166qV8us#.mp4",
   },
   {
-    img: "https://media-exp1.licdn.com/dms/image/C4E0DAQHHioAJ_NOcbA/learning-public-crop_288_512/0/1617301744692?e=1645617600&v=beta&t=ND_bbB6nFwqToRPFgbaDRDeZMp7Jw_6XY6NZvgBTK3w", //img path
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmyNOPwCo2zwtBcCMtOW8SyJ2eu5txxvfjPQ&usqp=CAU", //img path
     title: "Learning Anime", // title
     level: "Intermediate",
     creater: "Maryam Hanafiah", //owner
