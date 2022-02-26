@@ -95,8 +95,8 @@
   align-items: center;
 }
 
-.fontSize {
-  font-size: 12px;
+.fontSize1 {
+  font-size: 11px;
 }
 
 .h50 {
@@ -109,4 +109,8 @@
 
 .heighT {
   height: 40px;
+}
+
+.on :hover {
+  background-color: rgba(89, 89, 243, 0.705);
 }
