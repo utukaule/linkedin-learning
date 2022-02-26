@@ -16,7 +16,7 @@ function logIn (event){
 
     if(correctpw==password){
         alert("login Sucessful");
-        window.location.href = "home.html";
+        window.location.href = "landing_page_after_signup.html";
     }
     else {
         alert("wrong password");
