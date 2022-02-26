@@ -28,8 +28,13 @@ function signIn (event){
     if(count==0)
     {
         alert("Your email is not registered");
+        window.location.href = "signIn.html";
     }
     
+}
+
+function library(){
+    alert("You don't have any Library Card registered")
 }
 
 

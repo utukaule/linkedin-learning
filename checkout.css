@@ -12,7 +12,7 @@
 }
 
 .bgColor {
-  background-color: #f3f2ef;
+  background-color: #9c9994;
 }
 
 .width1 {
@@ -96,7 +96,8 @@
 }
 
 .fontSize {
-  font-size: 12px;
+  font-size: 11px;
+  color: grey;
 }
 
 .h50 {
@@ -108,5 +109,5 @@
 }
 
 .heighT {
-  height: 40px;
+  height: 20px;
 }

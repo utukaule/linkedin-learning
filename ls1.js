@@ -12,7 +12,7 @@ function fn1 (event){
      for(var i=0;i<s1.length;i++){
          if(email==s1[i].emailAdd){
              count++;
-             alert("your email is already registered.\n Please login");
+             alert("your email is already registered.\nPlease Sign-In");
             //  event.preventDefault();
              break;
          }
