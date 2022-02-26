@@ -10,7 +10,7 @@ function signOut(){
     localStorage.removeItem("usrNames");
     localStorage.removeItem("signInDataBase");
     location.reload();
-    alert("Signed out successfully")
-    window.location.href = "home.html";
+    alert("Signed out successfully");
+    window.location.href = "landing_page_after_signup.html";
     // window.location.href = "home.html";
 }
